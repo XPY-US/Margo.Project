@@ -1,4 +1,4 @@
-# 🦋 Margo Project
+# 💻 Margo Project
 
 **Hardened Firmware & Next-Gen Flashing Suite for M5Stack StickS3.**
 
