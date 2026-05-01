@@ -1,5 +1,5 @@
 ---
 ## 🔗 Connect with XPY-US
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK)
----
+
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/YOUR_CHANNEL_URL)
